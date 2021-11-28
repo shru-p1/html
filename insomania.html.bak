@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<title>Dietos</title>
+		<style>
+			h1   {color: crimson;
+				font-family: verdana;}		
+			p    {color: indigo;
+				font-family: Georgia;
+				font-size: 160%;}
+			ul li{color:violet;
+			font-size: 120%;}
+		</style>
+	</head>	
+	<body>
+	<p>Certain lifestyle changes may also help reduce your symptoms of insomnia. You may wish to give these a shot before seeking out supplemental or medicinal options.
+	</p>
+	<h1>Tips And Tricks</h1>
+	<ul>
+		<li>Avoid chemicals that disrupt sleep, such as nicotine, caffeine, and alcohol.</li>
+		<li>Eat lighter meals at night and at least two hours before bed.</li>
+		<li>Stay active, but exercise earlier in the day.</li>
+		<li>Take a hot shower or bath at the end of your day.</li>
+		<li>Avoid screens one to two hours before bed.</li>
+		<li>Keep your bedroom dark and cool, and try to use it only for sleeping.</li>
+		<li>Get into bed only if you’re tired.</li>
+		<li>Get out of bed if you don’t fall asleep within 20 minutes.</li>
+</html>

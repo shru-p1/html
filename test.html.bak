@@ -1,0 +1,34 @@
+<html>
+	<head>
+		<title>Dietos</title>
+		 <link rel="stylesheet" href="test.css">
+	</head>
+	<body>
+	
+	<div class="container">
+		<img src="C:\Users\Shruti\Desktop\kratin\44396230632_9a5d8f065a_o.jpg"   class="responsive">
+		<div class="text-block">
+			<h4>Hello!!</h4>
+			<p>Welcome to Dietos</p>
+			<a href="list.html"><p>Here is your daily diet</p></a>
+		</div>
+		<div class="text-block1">
+			<h4>Hey sufering from cough n cold?</h4>
+			<p>No worries</p>
+			<a href="cold.html"><p>Just click here</p></a>
+		</div>
+		<div class="text-block2">
+			<h4>Not able to sleep at night</h4>
+			<a href="insomania.html"><p>Here is the solution</p></a>
+		</div>
+		<div class="text-block3">
+			<h4>Acidity and Constipation</h4>
+			<a href="acidity.html"><p>You are just one click away from remedies</p></a>
+		</div>
+		<!--<div class="text-block4">
+			<h4>Hello!!</h4>
+			<p>Welcome to Dietos</p>
+			<a href="list.html"><p>Here is your daily diet</p></a>
+		</div>-->
+	</div>
+</html>

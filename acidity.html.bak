@@ -1,0 +1,40 @@
+<html>
+	<head>
+		<title>Dietos</title>
+		<style>
+			h1   {color: crimson;
+				font-family: verdana;}		
+			p    {color: indigo;
+				font-family: Georgia;
+				font-size: 120%;}
+			ul li{color:violet;
+			font-size: 120%;}
+		</style>
+	</head>	
+	<body>
+		<p Style="color:lightgreen";>It can be a little frustrating at times, as it prevents you from enjoying your meals and causes a lot of discomforts too.  So, here are  simple and effective home remedies that will help you get relief from acidity.
+		</p>
+		<h3>Cold Milk</h3>
+		<p>This is one of the simplest home remedies for acidity. One simple glass of cold milk might help you get relief from acidity. As it is rich in calcium, it may even prevent acidic buildup in your stomach.  
+		</p>
+		<h3>Coconut water</h3>
+		<p>Having 2 glasses of coconut water daily might help you with heartburn relief. Rich in fiber, it helps soothe your digestive system. Also, it may protect your stomach from the effects of excess acid production. </p>
+		<h3>Ginger</h3>
+		<p>ith its various digestive and anti-inflammatory properties, ginger can be considered to be one of the most effective home remedies for acid reflux.  You can use ginger in your cooking or you can just chew a slice of fresh ginger. Also, you can boil it in a glass of water, reduce it to half a glass and then drink the water. It may act as a helpful heartburn cure.  </p>
+		<h3>Mint Leaves</h3>
+		<p>Commonly known as pudina, mint leaves are also known to have digestive properties and can act as a natural cooling agent too. This helps you get proper relief from acidity and heartburn. A cup of mint tea acts as an effective natural remedy for acid reflux. Also, you can boil the mint leaves and then drink the water.</p>
+		<h3>Butter Milk</h3>
+		<p>Your normal buttermilk or “chaas” is also one of the most helpful home remedies for acid reflux and heartburn. It contains lactic acid that helps normalize the acidity in your stomach. You can drink a glass of buttermilk after any heavy meal to get relief from acidity.  </p>
+		<h3>Raw Almond</h3>
+		<p>Yes. As they are rich in natural oils, almonds have a soothing effect on your stomach. While raw almonds are known to help with the digestion process, almond milk can keep your stomach in good health and offer relief from acidity.</p>
+		
+		<p Style="color:lightgreen";>To treat the problem of frequent constipation at home many effective and proven remedies are available. With proper implementation of these home remedies, it becomes easier to keep constipation at bay. Here in this article, you will find some of the simple home remedies to get rid of the problem of frequent constipation.</p>
+		<h3>Apple Juice</h3>
+		<p>As we know, an apple a day keeps the doctor away. The fruit is highly rich in fiber and the juice of apple contains pectin. This pectin is a soluble fiber which helps in trouble-free digestion. If you are suffering from severe constipation, a simple home remedy of drinking a glass of apple juice in the early morning can be an effective cure.</p>
+		<h3>Beans</h3>
+		<p>Beans are naturally high in fiber. Fiber helps to pass the stool and clear the tract. Several types of beans like, red beans, lima beans, black beans, navy beans, and garbanzo beans all the enriched with fiber. It will help to eliminate the problem of frequent constipation and gas.</p>
+		<h3>Cabbage</h3>
+		<p>Cabbage is rich in fiber which is very helpful in relieving constipation. You can eat cabbage as a salad, or you can drink the juice of it twice a day to ease constipation.</p>
+		
+	</body>
+</html>

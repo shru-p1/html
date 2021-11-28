@@ -1,0 +1,52 @@
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+ 
+  background-color: black;
+  color: white;
+  padding-left: 50px;
+  padding-right: 50px;
+   position: absolute;
+  /*bottom: 50px;
+  right: 50px;*/
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.text-block1 {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.text-block2 {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.text-block3 {
+  position: absolute;
+  
+  left: 50%;
+  bottom: 1px;
+  transform: translate(-50%, -50%);
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.responsive {
+  width: 100%;
+  height: auto;
+}
